@@ -1,2 +1,2 @@
 # bumpity-bump
-tag/release
+tag/release bump
